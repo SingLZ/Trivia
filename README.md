@@ -53,7 +53,8 @@ It was alot of difficulties since eveything was created from the basics. I think
 
 
 
-     Project 4 - *Name of App Here*
+
+# Project 4 - *Name of App Here*
 
 Submitted by: **Your Name Here**
 
