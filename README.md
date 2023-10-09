@@ -85,7 +85,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-[![Video Title](http://img.youtube.com/vi/0OMcs7o/0.jpg)](http://www.youtube.com/watch?v=0OMcs7o)
+[![Video Title](http://img.youtube.com/vi/0Zvi0OMcs7o.jpg)](http://www.youtube.com/watch?v=0Zvi0OMcs7o)
 
 ## Notes
 
