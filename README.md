@@ -54,23 +54,23 @@ It was alot of difficulties since eveything was created from the basics. I think
 
 
 
-# Project 4 - *Name of App Here*
+# Project 4 - Trivia 
 
-Submitted by: **Your Name Here**
+Submitted by: Lixing Zheng
 
-**Name of your app** is an app that ... [TODO] 
+Tivia is an app that allows users to answer questions of different categories.
 
-Time spent: **X** hours spent in total
+Time spent: 4hrs
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] User can view and answer at least 5 trivia questions.
-- [ ] App retrieves question data from the Open Trivia Database API.
-- [ ] Fetch a different set of questions if the user indicates they would like to reset the game.
-- [ ] Users can see score after submitting all questions.
-- [ ] True or False questions only have two options.
+- [✓] User can view and answer at least 5 trivia questions.
+- [✓] App retrieves question data from the Open Trivia Database API.
+- [✓] Fetch a different set of questions if the user indicates they would like to reset the game.
+- [✓] Users can see score after submitting all questions.
+- [✓] True or False questions only have two options.
 
 
 The following **optional** features are implemented:
@@ -85,13 +85,11 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+[![Video Title](http://img.youtube.com/vi/0OMcs7o/0.jpg)](http://www.youtube.com/watch?v=0OMcs7o)
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+It was hard trying to implement the API because I have never used it before. I was switching back and forth between files to make sure everything is running smoothly and connecting. 
 
 ## License
 
